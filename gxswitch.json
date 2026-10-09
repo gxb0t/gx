@@ -1,8 +1,8 @@
 {
-  "versionCode": 60,
-  "versionName": "0.1.60",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.60.apk",
-  "sha256": "423e4f65da2bb127febdab1ce65cf88d736051ae288917be742856a80fb2ebb5",
+  "versionCode": 61,
+  "versionName": "0.1.61",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.61.apk",
+  "sha256": "dabe1b0e0b1dc045e64c62c52180f872620435b26c18b72dbd5ccd4a71e0de2a",
   "min": 0,
-  "notes": "Mandatory update: RACE stays locked until you install it. Cold-start update check. Current-mode adjustment for custom firmware, deep sleep on the widget, Telegram button, slower chroma, SABS hidden on Max G3."
+  "notes": "Update check on cold start, with a plain notice. RACE is never gated behind an update. Widget third button is a choice again (power off or deep sleep)."
 }
