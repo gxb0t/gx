@@ -1,0 +1,8 @@
+{
+  "versionCode": 59,
+  "versionName": "0.1.59",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.59.apk",
+  "sha256": "f94e6d68f8c19381735880513e699c38b86c79672192968c4018535f881c2e84",
+  "min": 0,
+  "notes": "Ajustement du mode en cours (firmware custom), adresse de mise a jour embarquee, journal sans adresse, veille prolongee sur le widget, bouton Telegram, chroma ralenti, SABS retiree sur Max G3"
+}
