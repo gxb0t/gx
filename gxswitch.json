@@ -1,8 +1,8 @@
 {
-  "versionCode": 62,
-  "versionName": "0.1.62",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.62.apk",
-  "sha256": "eb6fe3a2cb2af5aaa196fc0415e063a4c2c86652e92df31b2b5b4fedbbe71396",
+  "versionCode": 63,
+  "versionName": "0.1.63",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.63.apk",
+  "sha256": "55aeaf571bc1a88a5039afe2b2211f181d2fa286db0da34b858cef5485318afa",
   "min": 0,
-  "notes": "Widget and notifications now follow the app language. Update notice reworded: a version is offered, never forced. The once-a-day check box now actually governs the daily check; a cold start always checks."
+  "notes": "Removes the old hosting domain that was still compiled into the log scrubber. Same features as 0.1.62."
 }
