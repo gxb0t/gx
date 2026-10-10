@@ -1,8 +1,8 @@
 {
-  "versionCode": 64,
-  "versionName": "0.1.64",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.64.apk",
-  "sha256": "5de6cdfe3e21d4176bc6999b58e140594ac622e01697ff82cd91c0b831edf689",
+  "versionCode": 65,
+  "versionName": "0.1.65",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.65.apk",
+  "sha256": "e33524b9dc50a812b9528dbe9af84c3d9dbe1fef99d53ad638e18c078bbfaaf0",
   "min": 0,
-  "notes": "Coherence pass: every remaining hardcoded French string now goes through the translations, notifications say GX, dead settings and dead strings removed, a licence can be removed again (long press on its line)."
+  "notes": "Quick setting tiles are now GX ROUTE / GX RACE / GX OFF, and the instructions that name them changed with them. Launcher shortcut renamed GX PANIC. Backup and downloaded files use the gxswitch- prefix; old backups still restore."
 }
