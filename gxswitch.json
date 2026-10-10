@@ -1,8 +1,8 @@
 {
-  "versionCode": 65,
-  "versionName": "0.1.65",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.65.apk",
-  "sha256": "e33524b9dc50a812b9528dbe9af84c3d9dbe1fef99d53ad638e18c078bbfaaf0",
+  "versionCode": 66,
+  "versionName": "0.1.66",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.66.apk",
+  "sha256": "3f2525b2ea820ad0bbf0383ad02b93b37e47323e87a06dd6af8deb4255c5dac0",
   "min": 0,
-  "notes": "Quick setting tiles are now GX ROUTE / GX RACE / GX OFF, and the instructions that name them changed with them. Launcher shortcut renamed GX PANIC. Backup and downloaded files use the gxswitch- prefix; old backups still restore."
+  "notes": "Backup restore now accepts one package id only. The pre-rename identifier is gone from the app."
 }
