@@ -1,8 +1,8 @@
 {
-  "versionCode": 66,
-  "versionName": "0.1.66",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.66.apk",
-  "sha256": "3f2525b2ea820ad0bbf0383ad02b93b37e47323e87a06dd6af8deb4255c5dac0",
+  "versionCode": 67,
+  "versionName": "0.1.67",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.67.apk",
+  "sha256": "8f32c7bd48bf6b6c823156f6580ce8f2da15d1ce7095778fa8401ed4763cd80b",
   "min": 0,
-  "notes": "Backup restore now accepts one package id only. The pre-rename identifier is gone from the app."
+  "notes": "Long press now needs two presses within 5 seconds, so a press in your pocket does nothing (option, on by default). Traction control can be switched from the app."
 }
