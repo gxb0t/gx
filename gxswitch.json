@@ -1,8 +1,8 @@
 {
-  "versionCode": 68,
-  "versionName": "0.1.68",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.68.apk",
-  "sha256": "8b0dfbecf8838c2bb6ab1c709452e709df522d815c5f249dbbe376ff91716b74",
+  "versionCode": 69,
+  "versionName": "0.1.69",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.69.apk",
+  "sha256": "d3113edb00557f0fdbd7d9a79c47e27ea896fc62a5eeec24669e94fa2e146f1f",
   "min": 0,
-  "notes": "The two-press requirement is replaced by a plain switch under the four buttons: turn the power-button press off entirely. Greyed out without Pro on the targeted scooter. The locked-trigger message names the right command again."
+  "notes": "With the custom-firmware box ticked, the ROAD and RACE buttons are gone: the firmware's panic button does the switching, and a line on screen says so. Power off and deep sleep stay."
 }
