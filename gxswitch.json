@@ -1,8 +1,8 @@
 {
-  "versionCode": 69,
-  "versionName": "0.1.69",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.69.apk",
-  "sha256": "d3113edb00557f0fdbd7d9a79c47e27ea896fc62a5eeec24669e94fa2e146f1f",
+  "versionCode": 70,
+  "versionName": "0.1.70",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.70.apk",
+  "sha256": "b9fe57d37e6cb008874ddbcd938ffa3a6e9ff34dbeb9db9b346dc7355a4bc44d",
   "min": 0,
-  "notes": "With the custom-firmware box ticked, the ROAD and RACE buttons are gone: the firmware's panic button does the switching, and a line on screen says so. Power off and deep sleep stay."
+  "notes": "With custom firmware on the targeted scooter, ROAD and RACE leave the widget, their tiles go unavailable and the power-button press ignores them: the firmware's panic button does the switching. Power off and deep sleep are untouched. The quick-trigger delay is now written to the log even when set to zero."
 }
