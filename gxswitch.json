@@ -1,8 +1,8 @@
 {
-  "versionCode": 70,
-  "versionName": "0.1.70",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.70.apk",
-  "sha256": "b9fe57d37e6cb008874ddbcd938ffa3a6e9ff34dbeb9db9b346dc7355a4bc44d",
+  "versionCode": 71,
+  "versionName": "0.1.71",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.71.apk",
+  "sha256": "037d5c2da58c43b423136d315b39c05c8af0d9e1d00b49842a8d5c2226d782ce",
   "min": 0,
-  "notes": "Custom firmware: ROAD/RACE triggers removed."
+  "notes": "Widget fix: the remaining button now fills the width."
 }
