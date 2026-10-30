@@ -1,8 +1,8 @@
 {
-  "versionCode": 74,
-  "versionName": "0.1.74",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.74.apk",
-  "sha256": "21c707433c8a5904fa21d99d8b5c4c1dd0214bfbf57e7e9cd070e3585e17cbc9",
+  "versionCode": 75,
+  "versionName": "0.1.75",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.75.apk",
+  "sha256": "673d57a972fb7ba9b6057759aae6ac1c840a497b4caf1782465035f61442116f",
   "min": 0,
-  "notes": "Speeds: order enforced, and a big drop asks before applying."
+  "notes": "Typo guard no longer bothers low legal limits."
 }
