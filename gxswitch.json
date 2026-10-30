@@ -1,8 +1,8 @@
 {
-  "versionCode": 72,
-  "versionName": "0.1.72",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.72.apk",
-  "sha256": "004b52d7a05d98b86341bfec6934be8b3e67a2d947de2aa34641888252a58960",
+  "versionCode": 73,
+  "versionName": "0.1.73",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.73.apk",
+  "sha256": "f938bfe675aa0b980b10123d5b697295a3b595959e0ff5c4f65bae2db0bd368d",
   "min": 0,
-  "notes": "Acceleration moved next to the speeds."
+  "notes": "A refused licence can now be reported in one tap."
 }
