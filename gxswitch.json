@@ -1,8 +1,8 @@
 {
-  "versionCode": 73,
-  "versionName": "0.1.73",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.73.apk",
-  "sha256": "f938bfe675aa0b980b10123d5b697295a3b595959e0ff5c4f65bae2db0bd368d",
+  "versionCode": 74,
+  "versionName": "0.1.74",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.74.apk",
+  "sha256": "21c707433c8a5904fa21d99d8b5c4c1dd0214bfbf57e7e9cd070e3585e17cbc9",
   "min": 0,
-  "notes": "A refused licence can now be reported in one tap."
+  "notes": "Speeds: order enforced, and a big drop asks before applying."
 }
