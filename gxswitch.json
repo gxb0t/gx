@@ -1,8 +1,8 @@
 {
-  "versionCode": 75,
-  "versionName": "0.1.75",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.75.apk",
-  "sha256": "673d57a972fb7ba9b6057759aae6ac1c840a497b4caf1782465035f61442116f",
+  "versionCode": 78,
+  "versionName": "0.1.78",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.78.apk",
+  "sha256": "364072a27e64b3d7ef6c370aca1d3a3a35e9e1c97ee5b103962545bc1ad59f7c",
   "min": 0,
-  "notes": "Typo guard no longer bothers low legal limits."
+  "notes": "Riding assists apply as you tick them. Diagnostic no longer freezes the app. Log in English."
 }
