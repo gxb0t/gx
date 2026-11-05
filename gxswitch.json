@@ -1,8 +1,8 @@
 {
-  "versionCode": 81,
-  "versionName": "0.1.81",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.81.apk",
-  "sha256": "94e1804a7cb7bfb3dc5206bcd758a6bbc6111c097a13c028cdf14c7be21bff5f",
+  "versionCode": 82,
+  "versionName": "0.1.82",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.82.apk",
+  "sha256": "1334dade4ad8ed526085e4077d6938d951c08e3179e40876475d2aad027fbe0c",
   "min": 0,
-  "notes": "Widget follows the custom firmware setting and the other options as soon as you leave the app."
+  "notes": "Icon and label centred together on the wide custom-firmware button."
 }
