@@ -1,8 +1,8 @@
 {
-  "versionCode": 80,
-  "versionName": "0.1.80",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.80.apk",
-  "sha256": "e9bd5ae18502ad42e31aa37a263256cdff53a008fe90c0f4e48bc9032135c0e2",
+  "versionCode": 81,
+  "versionName": "0.1.81",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.81.apk",
+  "sha256": "94e1804a7cb7bfb3dc5206bcd758a6bbc6111c097a13c028cdf14c7be21bff5f",
   "min": 0,
-  "notes": "Widget repaints itself after an update or a reboot. Wide button readable under custom firmware."
+  "notes": "Widget follows the custom firmware setting and the other options as soon as you leave the app."
 }
