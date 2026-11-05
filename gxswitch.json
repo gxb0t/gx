@@ -1,8 +1,8 @@
 {
-  "versionCode": 78,
-  "versionName": "0.1.78",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.78.apk",
-  "sha256": "364072a27e64b3d7ef6c370aca1d3a3a35e9e1c97ee5b103962545bc1ad59f7c",
+  "versionCode": 80,
+  "versionName": "0.1.80",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.80.apk",
+  "sha256": "e9bd5ae18502ad42e31aa37a263256cdff53a008fe90c0f4e48bc9032135c0e2",
   "min": 0,
-  "notes": "Riding assists apply as you tick them. Diagnostic no longer freezes the app. Log in English."
+  "notes": "Widget repaints itself after an update or a reboot. Wide button readable under custom firmware."
 }
