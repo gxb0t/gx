@@ -1,8 +1,8 @@
 {
-  "versionCode": 82,
-  "versionName": "0.1.82",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.82.apk",
-  "sha256": "1334dade4ad8ed526085e4077d6938d951c08e3179e40876475d2aad027fbe0c",
+  "versionCode": 83,
+  "versionName": "0.1.83",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.83.apk",
+  "sha256": "660229f455e552c31f1975b679a420dd473b5c968ea6270de2a12d9288803045",
   "min": 0,
-  "notes": "Icon and label centred together on the wide custom-firmware button."
+  "notes": "Cancel now stops a search away from the scooter. Shortcut and tile labels back to GX."
 }
