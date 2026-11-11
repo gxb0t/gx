@@ -1,8 +1,8 @@
 {
-  "versionCode": 87,
-  "versionName": "0.1.87",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.87.apk",
-  "sha256": "fa68705e92df1dd3c6b6c3043b8302d70273f9ab40fd5371d7b2613add43e2ee",
+  "versionCode": 88,
+  "versionName": "0.1.88",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.88.apk",
+  "sha256": "1acfda5520e82cc1aaaafb3f51b1771a508466433ecd821a078907227fc69582",
   "min": 0,
-  "notes": "New Power on button, next to Power off. Power off and deep sleep now report the right message."
+  "notes": "Power on right after a power off is no longer swallowed: the app waits for the shutdown to finish."
 }
