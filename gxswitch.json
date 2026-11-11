@@ -1,8 +1,8 @@
 {
-  "versionCode": 88,
-  "versionName": "0.1.88",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.88.apk",
-  "sha256": "1acfda5520e82cc1aaaafb3f51b1771a508466433ecd821a078907227fc69582",
+  "versionCode": 89,
+  "versionName": "0.1.89",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.89.apk",
+  "sha256": "009c9dcf3bc7b9e4367765b064aa286b5845850133623472592e613d3c198174",
   "min": 0,
-  "notes": "Power on right after a power off is no longer swallowed: the app waits for the shutdown to finish."
+  "notes": "Battery and vehicle temperature, read on demand, with an optional watch while charging. Diagnostic now covers the BMS and BLE boards too."
 }
