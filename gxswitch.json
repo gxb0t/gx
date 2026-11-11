@@ -1,8 +1,8 @@
 {
-  "versionCode": 83,
-  "versionName": "0.1.83",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.83.apk",
-  "sha256": "660229f455e552c31f1975b679a420dd473b5c968ea6270de2a12d9288803045",
+  "versionCode": 84,
+  "versionName": "0.1.84",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.84.apk",
+  "sha256": "d4be541741fcc4b3527708e1f6c7eb81402f538045ffd5a1b10d5b93bbd583a0",
   "min": 0,
-  "notes": "Cancel now stops a search away from the scooter. Shortcut and tile labels back to GX."
+  "notes": "Widget and tiles no longer stay stuck on the last step once an action is done."
 }
