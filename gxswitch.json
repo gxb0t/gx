@@ -1,8 +1,8 @@
 {
-  "versionCode": 90,
-  "versionName": "0.1.90",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.90.apk",
-  "sha256": "c105b7174056579e1bc28d0fde8fb0d8b3a61dab3d3043d9ba50bc508fd149fa",
+  "versionCode": 93,
+  "versionName": "0.1.93",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.93.apk",
+  "sha256": "e9b3d88e22cb7e909a9db1202ba54cdbd249bf96e707af588b7eb71b832c849f",
   "min": 0,
-  "notes": "Temperature line reworked so it fits on one line, with the reading time below it."
+  "notes": "Charge level now refreshes with the temperature. The watch keeps the screen on, its length is yours to set, and it stops cleanly when you leave."
 }
