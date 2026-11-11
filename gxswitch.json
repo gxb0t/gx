@@ -1,8 +1,8 @@
 {
-  "versionCode": 89,
-  "versionName": "0.1.89",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.89.apk",
-  "sha256": "009c9dcf3bc7b9e4367765b064aa286b5845850133623472592e613d3c198174",
+  "versionCode": 90,
+  "versionName": "0.1.90",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.90.apk",
+  "sha256": "c105b7174056579e1bc28d0fde8fb0d8b3a61dab3d3043d9ba50bc508fd149fa",
   "min": 0,
-  "notes": "Battery and vehicle temperature, read on demand, with an optional watch while charging. Diagnostic now covers the BMS and BLE boards too."
+  "notes": "Temperature line reworked so it fits on one line, with the reading time below it."
 }
