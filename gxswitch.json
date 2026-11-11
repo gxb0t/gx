@@ -1,8 +1,8 @@
 {
-  "versionCode": 86,
-  "versionName": "0.1.86",
-  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.86.apk",
-  "sha256": "d0aaaa31ad262eaf16a0a8d7ca23f6d08b5b0d590ca858d173f45a2f4b16e3de",
+  "versionCode": 87,
+  "versionName": "0.1.87",
+  "url": "https://raw.githubusercontent.com/gxb0t/gx/main/gxswitch-0.1.87.apk",
+  "sha256": "fa68705e92df1dd3c6b6c3043b8302d70273f9ab40fd5371d7b2613add43e2ee",
   "min": 0,
-  "notes": "Charge is now read on power on, power off and deep sleep, so the widget no longer shows a days-old reading."
+  "notes": "New Power on button, next to Power off. Power off and deep sleep now report the right message."
 }
